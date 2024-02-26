@@ -8,6 +8,29 @@ world_id = "wrld_74970324-58e8-4239-a17b-2c59dfdf00db"
 game_objects = [{ name = "ADs" }]
 
 [[block]]
+friendly_name = "Furry Spanish"
+world_id = "wrld_1e719674-9a99-4a49-a2b6-edc93e22dc5b"
+game_objects = [
+     { name = "CC" },
+     { name = "DJ" },
+     { name = "dj" },
+     { name = "cc" }
+]
+
+[[block]]
+friendly_name = "HornyLand Club by Gantz4VT"
+world_id = "wrld_ccbdb7eb-4ad5-42de-b9cd-a5ffaee7eb06"
+game_objects = [
+    { name = "Collar_Yellow" },
+    { name = "Collar_Red" },
+    { name = "Collar_Orange" },
+    { name = "Collar_Green" },
+    { name = "Collar_Chain" },
+    { name = "Collar_Blue" }
+]
+
+
+[[block]]
 friendly_name = "Movie & Chill (Youtube)"
 world_id = "wrld_82ddecd1-2897-47cd-8508-d3f67dc76fe4"
 game_objects = [
